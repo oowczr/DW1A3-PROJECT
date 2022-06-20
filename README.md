@@ -14,5 +14,10 @@ O menu é utilizado apenas na página inicial e as páginas do candidato oferece
 
 
 
+(OBS: 
+* Após download da pasta, é necessario descompacta-la. 
+* Para a pagina inicial do projeto, abra o HTML **Navegação**, encontrado fora da pasta HTML padrão.
+)
+
 
 
