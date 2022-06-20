@@ -1,0 +1,260 @@
+
+/* - sin.css - */
+@media screen {
+/* http://www.mpu.mp.br/portal_css/sin.css?original=1 */
+/* */
+/* */
+/* */
+.sinRSSIcon {
+padding-right: 0.5em;
+text-align: right;
+valign: center;
+width: 100%;
+}
+.sinTableTitle {
+color: Black;
+font-weight: normal;
+}
+/* */
+
+}
+
+
+/* XXX ERROR -- could not find 'pagina-candidato.css'*/
+
+/* XXX ERROR -- could not find 'pagina-remocao.css'*/
+
+/* XXX ERROR -- could not find 'forum.css'*/
+
+/* - ploneCustom.css - */
+@media all {
+/* http://www.mpu.mp.br/portal_css/ploneCustom.css?original=1 */
+/* */
+/* */
+/* */
+.style2 {
+font-size: 11px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style3 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 12px;
+color: #3C619D;
+}
+.style4 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 12px;
+color: rgb(0, 0, 0);
+}
+.noticia {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: #436976;
+line-height: 12px;
+}
+.noticia a:hover{
+text-decoration: underline;
+}
+. noticia a:link.visited {
+color: #436976;
+}
+. noticia a:link.active {
+color: #436976;
+}
+.titulo-destaque {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 9px;
+color: #3C619D;
+line-height: 11px;
+text-decoration: none;
+}
+.leia-mais {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 9px;
+color: black;
+line-height: 11px;
+text-decoration: none;
+}
+.leia-mais a:hover{
+text-decoration: underline;
+}
+.corpo-noticia {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+color: black;
+line-height: 12px;
+text-decoration: none;
+}
+.field_error {
+background-color:#FFCE7B;
+border:1px solid #FFA500;
+}
+/* */
+.portalMessage, .system-message, #error-handling {
+background-color:#FFCE7B;
+background-image:url(../../../www-edit.mpu.gov.br/info_icon.gif);
+background-position:5px 50%;
+background-repeat:no-repeat;
+border:1px solid #FFA500;
+color:Black;
+font-size:110%;
+font-weight:bold;
+margin:1em 0;
+padding:1.5em 1em 1.5em 3em;
+vertical-align:middle;
+}
+/* */
+.link-external {
+background: none;
+padding: 0px;
+}
+/* */
+.portwhite {
+margin: 0;
+padding: 0em;
+border: none;
+border-top: none;
+border-bottom: none;
+}
+.portwhite2 {
+margin: 0;
+padding: 0.2em;
+border: none;
+border-top: none;
+}
+/* */
+.combo {
+width: 244px;
+white-space: nowrap;
+height: 16px;
+font-size:10pt;
+float: right;
+border: none;
+z-index: 3;
+background-color: #e4f0fc;
+margin: 1em 0.2em 0px 0px;
+}
+.combo-box {
+width: 200px;
+height: 18px;
+font-size:10pt;
+float: right;
+margin: -45px 0px 0px 0px;
+border: none;
+white-space: nowrap;
+z-index: 2;
+background-color: #e4f0fc;
+}
+/* */
+.portletHeadermenu {
+background-image: url(imagens/porthead-2ccr.html);
+padding: 0.2em 1em 0.3em;
+text-transform: none;
+font-weight: normal;
+line-height: 1.7em;
+color: black;
+}
+.portletHeadermenu a {
+color: black;
+}
+.portletHeadermenu2 {
+background-image: url(imagens/porthead2-2ccr.html);
+padding: 0.1em 1em 0.4em;
+text-transform: none;
+font-weight: normal;
+line-height: 1.5em;
+color: black;
+display: block;
+}
+.portletHeadermenu2 a {
+color: black;
+}
+.portletItemSinglemenu {
+margin: 0;
+padding: 0.6em 1em 0.4em 1em;
+border: #2b383e;
+background-color: #2b383e;
+border-top: none;
+color: #c1c1c1;
+display: block;
+line-height: 10pt;
+}
+.portletItemSinglemenu a{
+color: #c1c1c1;
+border-bottom: 0.5pt inset #81878c;
+padding-bottom: 0.4em;
+display: list-item;
+list-style: none;
+line-height: 10pt;
+white-space: normal;
+width: 125px;
+vertical-align: baseline;
+}
+.portletItemSinglemenu a:hover{
+color: #959494;
+}
+.portletHeaderdir {
+background-image: url(imagens/porthead-2ccr-dir.html);
+padding: 0em 1em 0.3em;
+text-transform: none;
+font-weight: normal;
+line-height: 1.9em;
+color: #dedede;
+}
+.portletHeaderdir a {
+color: #dedede;
+}
+.portletHeaderdir2 {
+background-image: url(imagens/porthead2-2ccr-dir.html);
+padding: 0.2em 1em 0.6em;
+text-transform: none;
+font-weight: normal;
+line-height: 1.4em;
+color: #dedede;
+}
+.portletHeaderdir a {
+color: #dedede;
+}
+.portletItemSingledir {
+margin: 0;
+padding: 0.6em 1em 0.4em 1em;
+border: #ededec;
+background-color: #ededec;
+border-top: none;
+color: #2b383e;
+display: block;
+line-height: 10pt;
+}
+.portletItemSingledir a{
+color: #2b383e;
+border-bottom: 0.5pt inset #aeaeae;
+padding-bottom: 0.4em;
+display: list-item;
+list-style: none;
+line-height: 10pt;
+white-space: normal;
+width: 125px;
+vertical-align: baseline;
+}
+.portletItemSingledir a:hover{
+color: #7c7c7c;
+}
+/* */
+.portletItemSingle {
+margin: 0;
+padding: 0.3em 1em 0.2em 0.5em;
+border: #010184;
+background-color: #4572A0;
+border-top: none;
+color: #000000;
+display: block;
+line-height: 10pt;
+}
+/* */
+/* */
+
+}
+
