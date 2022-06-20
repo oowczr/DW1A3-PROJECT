@@ -16,8 +16,8 @@ O menu é utilizado apenas na página inicial e as páginas do candidato oferece
 
 (OBS: 
 * Após download da pasta, é necessario descompacta-la. 
-* Para a pagina inicial do projeto, abra o HTML **Navegação**, encontrado fora da pasta HTML padrão.
-)
-
+* Para a pagina inicial do projeto, abra o HTML **Navegação**, encontrado fora da pasta HTML denominada tambem como **NAVEGAÇÂO**.
+* Para contemplação do scopo do projeto que solicitava a modificação de uma pagina feia a uma pagina apresentavel, a maioria dos links foram desativados, pois puxavam muitos externos e paginas secundarias.
+* Dentro da pasta tera uma imagem desenvolvida no FLUTTER que contempla a ideia inicial do projeto, com exito total. )
 
 
