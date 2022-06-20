@@ -14,10 +14,9 @@ O menu é utilizado apenas na página inicial e as páginas do candidato oferece
 
 
 
-(OBS: 
+(OBS para visualização do projeto)
 * Após download da pasta, é necessario descompacta-la. 
-* Para a pagina inicial do projeto, abra o HTML **Navegação**, encontrado fora da pasta HTML denominada tambem como **NAVEGAÇÂO**.
+* Para a pagina inicial do projeto, abra o HTML **Navegação**, encontrada pasta principal **www.mpu.mp.br**.
 * Para contemplação do scopo do projeto que solicitava a modificação de uma pagina feia a uma pagina apresentavel, a maioria dos links foram desativados, pois puxavam muitos externos e paginas secundarias.
-* Dentro da pasta tera uma imagem desenvolvida no FLUTTER que contempla a ideia inicial do projeto, com exito total. )
-
+* No GitHub, há uma pdf denominado Rascunho Layout, nele contem o desenvolvimento da pagina antes da elaboração do projeto. Desenvolvido pelo FLutter.
 
